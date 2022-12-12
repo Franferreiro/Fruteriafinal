@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+   background-color: rgb(2, 77, 19);
+   font-size: 16px;
+   color: white;
+  }
+  
+
+.container {
+    max-width: 1980px;
+
+}
+.list-group-item{
+    background-color: transparent;
+}
